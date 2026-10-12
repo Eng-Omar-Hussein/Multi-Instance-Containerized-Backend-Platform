@@ -1,0 +1,15 @@
+.git
+.github
+.env
+.env.*
+__pycache__
+**/__pycache__
+*.pyc
+logs
+docs
+tests
+evidence
+database
+*.md
+*.bundle
+backups
